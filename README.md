@@ -37,4 +37,4 @@ Exécutez estimate.py et suivez les instructions pour obtenir des prédictions.
 
 Utilisez visualize.py pour afficher la base de données, la régression obtenue et l'erreur associée.
 
-![Base de Données](images/base_de_donnees.png)
+![Results](images/results.png)
