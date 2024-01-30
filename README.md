@@ -1,7 +1,7 @@
 # ft_linear_regression
 
 ## Description
-Le projet ft_linear_regression consiste à réaliser une régression linéaire sur une base de données fournie. La base de données contient des kilométrages de voitures ainsi que leur prix associés, le but de cet exercice est d'établie une potentielle proportionnalité entre le kilométrage et le prix. Trois fichiers principaux ont été développés pour accomplir différentes tâches : `training.py`, `estimate.py` et `visualize.py`.
+Le projet ft_linear_regression consiste à réaliser une régression linéaire sur une base de données fournie. La base de données contient des kilométrages de voitures ainsi que leur prix associé, le but de cet exercice est d'établir une potentielle proportionnalité entre le kilométrage et le prix. Trois fichiers principaux ont été développés pour accomplir différentes tâches : `training.py`, `estimate.py` et `visualize.py`.
 
 ## Fichiers du Projet
 
